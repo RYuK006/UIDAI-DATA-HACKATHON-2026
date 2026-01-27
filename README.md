@@ -5,8 +5,7 @@
 [![Machine Learning](https://img.shields.io/badge/ML-Ensemble_Learning-orange.svg)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Project-Hackathon_Submission-green.svg)]()
 
-## 🧠 Team: CodData Defenders
-
+## 🧠 TEAM ID: UIDAI 3234
 ---
 
 ## 📌 Project Overview
